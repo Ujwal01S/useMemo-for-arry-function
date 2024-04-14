@@ -1,0 +1,1 @@
+# useMemo-for-arry-function
